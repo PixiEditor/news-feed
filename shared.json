@@ -1,9 +1,10 @@
 [
     {
-    "title": "Supporter Pack is now available!",
-    "shortDescription": "Support the development of PixiEditor and get some cool perks!",
-    "newsType": "OfficialAnnouncement",
-    "url": "https://store.steampowered.com/app/2435860/PixiEditor__Supporter_Pack/",
-    "date": "2023-07-03"
+        "title": "Supporter Pack is now available! Long text long text",
+        "shortDescription": "Support the development of PixiEditor and get some cool perks! Lorem ipsum dolor sit amet.",
+        "newsType": "OfficialAnnouncement",
+        "url": "https://store.steampowered.com/app/2435860/PixiEditor__Supporter_Pack/",
+        "date": "2023-07-03",
+        "customIconUrl": "https://cdn.akamai.steamstatic.com/steam/apps/256953113/movie.184x123.jpg?t=1686848505"
     }
 ]

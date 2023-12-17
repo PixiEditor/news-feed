@@ -26,5 +26,11 @@
         "url": "https://store.steampowered.com/app/2435860/PixiEditor__Supporter_Pack/",
         "date": "2023-11-21",
         "coverImageUrl": "https://clan.cloudflare.steamstatic.com/images/43538089/71f52e3c20b230fd40de59715a15815730f574d5.png"
+    },
+    {
+        "title": "PixiEditor Patch 1.2.2",
+        "newsType": "NewVersion"
+        "url": "https://store.steampowered.com/news/app/2218560/view/3898492545024916045"
+        "date": "2023-12-17"
     }
 ]

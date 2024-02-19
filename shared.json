@@ -38,5 +38,12 @@
         "newsType": "NewVersion",
         "url": "https://store.steampowered.com/news/app/2218560/view/3977307906135108027",
         "date": "2024-01-12"
+    },
+    {
+        "title": "Announcing PixiEditor 2.0 - Join waitlist now!",
+        "newsType": "OfficialAnnouncement",
+        "url": "https://pixieditor.net/v2",
+        "date": "2024-02-19",
+        "coverImageUrl": "https://clan.cloudflare.steamstatic.com/images/43538089/1bfaf79d659d8ae1d755739624cbd00863c9daea.png"
     }
 ]

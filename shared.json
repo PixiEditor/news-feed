@@ -45,5 +45,12 @@
         "url": "https://pixieditor.net/v2",
         "date": "2024-02-19",
         "coverImageUrl": "https://clan.cloudflare.steamstatic.com/images/43538089/1bfaf79d659d8ae1d755739624cbd00863c9daea.png"
+    },
+    {
+        "title": "Devlog 3",
+        "newsType": "BlogPost",
+        "url": "https://pixieditor.net/blog/2024/06/14/devlog3",
+        "date": "2024-06-14",
+        "coverImageUrl": "https://clan.akamai.steamstatic.com/images/43538089/d5bcc9bc686e43f249ca34847ac594d80f132eed.png"
     }
 ]

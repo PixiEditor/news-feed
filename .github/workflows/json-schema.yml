@@ -28,4 +28,4 @@ jobs:
 
     - name: Run JSON validation
       run: |
-        python ./utility/validate_json.py
+        python utility/check.py

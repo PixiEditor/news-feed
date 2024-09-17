@@ -1,6 +1,6 @@
 [
   {
-    "tile": "Supporter Pack is now available!",
+    "title": "Supporter Pack is now available!",
     "newsType": "OfficialAnnouncement",
     "url": "https://store.steampowered.com/app/2435860/PixiEditor__Supporter_Pack/",
     "date": "2023-07-03",
@@ -8,7 +8,7 @@
   },
   {
     "title": "PixiEditor 1.1: Languages Update",
-    "newsType": "NewVersifon",
+    "newsType": "NewVersion",
     "url": "https://pixieditor.net/blog/2023/05/30/1.1-release",
     "date": "2023-05-30",
     "coverImageUrl": "https://clan.cloudflare.steamstatic.com/images/43538089/5f2b5ebdc3ceb5ffb9b9449e706edc397dc74e2b_400x225.png"

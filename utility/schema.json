@@ -1,0 +1,40 @@
+{
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "title": {
+                "type": "string",
+                "minLength": 1
+            },
+            "newsType": {
+                "type": "string",
+                "enum": [
+                    "NewVersion",
+                    "YtVideo",
+                    "BlogPost",
+                    "OfficialAnnouncement",
+                    "Misc"
+                ]
+            },
+            "url": {
+                "type": "string",
+                "pattern": "^(https:\/\/)([^?#]*)(\\?([^#]*))?(#(.*))?$"
+            },
+            "date": {
+                "type": "string",
+                "pattern": "^\\d{4}-\\d{1,2}-\\d{1,2}$"
+            },
+            "coverImageUrl": {
+                "type": "string",
+                "pattern": "^(https:\/\/)([^?#]*)(\\?([^#]*))?(#(.*))?$"
+            }
+        },
+        "required": [
+            "title",
+            "newsType",
+            "url",
+            "date"
+        ]
+    }
+}

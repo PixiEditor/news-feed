@@ -31,7 +31,9 @@ def main():
             if valid:
                 print(f"✅ {filename} is valid")
             else:
-                print(f"❌ {filename} is invalid: {error}")
+                print(f"::group::❌ {filename} is invalid")
+                print(error)
+                print("::endgroup::")
                 validation_failed = True
 
     if validation_failed:

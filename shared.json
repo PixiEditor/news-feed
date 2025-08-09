@@ -86,7 +86,7 @@
     "newsType": "BlogPost",
     "url": "https://pixieditor.net/blog/2024/09/13/devlog9",
     "date": "2024-09-13",
-    "coverImageUrl": "https://pixieditor.net/img/blog-posts/devlog9/cover.png"
+    "coverImageUrl": "https://github.com/PixiEditor/PixiEditor.net/blob/master/src/content/blog/assets/devlog9/cover.png?raw=true"
   },
   {
     "title": "PixiEditor Devlog 10 - Snap it, paint it, node it up!",
@@ -114,6 +114,6 @@
     "newsType": "BlogPost",
     "url": "https://pixieditor.net/blog/2025/07/24/v2-release-date",
     "date": "2025-07-24",
-    "coverImageUrl": "https://pixieditor.net/img/blog-posts/v2-release-date/cover.png"
+    "coverImageUrl": "https://github.com/PixiEditor/PixiEditor.net/blob/master/src/content/blog/assets/v2-release-date/cover.png?raw=true"
   }
 ]

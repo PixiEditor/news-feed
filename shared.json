@@ -115,5 +115,12 @@
     "url": "https://pixieditor.net/blog/2025/07/24/v2-release-date",
     "date": "2025-07-24",
     "coverImageUrl": "https://github.com/PixiEditor/PixiEditor.net/blob/master/src/content/blog/assets/v2-release-date/cover.png?raw=true"
+  },
+  {
+    "title": "PixiEditor 2.0 August 2025 Status",
+    "newsType": "BlogPost",
+    "url": "https://pixieditor.net/blog/2025/08/23/august-status/",
+    "date": "2025-08-23",
+    "coverImageUrl": "https://raw.githubusercontent.com/PixiEditor/PixiEditor.net/refs/heads/master/src/content/blog/assets/august-status/cover.png"
   }
 ]

@@ -122,5 +122,12 @@
     "url": "https://pixieditor.net/blog/2025/08/23/august-status/",
     "date": "2025-08-23",
     "coverImageUrl": "https://raw.githubusercontent.com/PixiEditor/PixiEditor.net/refs/heads/master/src/content/blog/assets/august-status/cover.png"
+  },
+  {
+    "title": "PixiEditor September 2025 Status",
+    "newsType": "BlogPost",
+    "url": "https://pixieditor.net/blog/2025/10/02/september-status/",
+    "date": "2025-10-02",
+    "coverImageUrl": "https://raw.githubusercontent.com/PixiEditor/PixiEditor.net/refs/heads/master/src/content/blog/assets/september-status/cover.png"
   }
 ]

@@ -129,5 +129,12 @@
     "url": "https://pixieditor.net/blog/2025/10/02/september-status/",
     "date": "2025-10-02",
     "coverImageUrl": "https://raw.githubusercontent.com/PixiEditor/PixiEditor.net/refs/heads/master/src/content/blog/assets/september-status/cover.png"
+  },
+  {
+    "title": "PixiEditor October 2025 Status",
+    "newsType": "YtVideo",
+    "url": "https://youtu.be/AGiNCdMgzhg?si=vqV_1tz2Oab3LIes",
+    "date": "2025-11-06",
+    "coverImageUrl": "https://raw.githubusercontent.com/PixiEditor/PixiEditor.net/refs/heads/master/src/content/blog/assets/october-status/cover.png"
   }
 ]

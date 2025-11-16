@@ -136,5 +136,12 @@
     "url": "https://youtu.be/AGiNCdMgzhg?si=vqV_1tz2Oab3LIes",
     "date": "2025-11-06",
     "coverImageUrl": "https://raw.githubusercontent.com/PixiEditor/PixiEditor.net/refs/heads/master/src/content/blog/assets/october-status/cover.png"
+  },
+  {
+    "title": "Inputs and popups broken by Discord Overlay",
+    "newsType": "BlogPost",
+    "url": "https://pixieditor.net/blog/2025/11/16/discord-bug/",
+    "date": "2025-11-16",
+    "coverImageUrl": "https://raw.githubusercontent.com/PixiEditor/PixiEditor.net/refs/heads/master/src/content/blog/assets/discord-bug/cover.png"
   }
 ]

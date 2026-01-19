@@ -103,5 +103,12 @@
     "url": "https://pixieditor.net/blog/2025/12/10/21-beta/",
     "date": "2025-12-10",
     "coverImageUrl": "https://raw.githubusercontent.com/PixiEditor/PixiEditor.net/refs/heads/master/src/content/blog/assets/2.1-beta/cover.png"
+  },
+  {
+    "title": "Can PixiEditor become 2D industry standard? 2026 Plan",
+    "newsType": "BlogPost",
+    "url": "https://pixieditor.net/blog/2026/01/19/goal-and-purpose/",
+    "date": "2026-01-19",
+    "coverImageUrl": "https://raw.githubusercontent.com/PixiEditor/PixiEditor.net/refs/heads/master/src/content/blog/assets/goal-and-purpose/cover.png"
   }
 ]

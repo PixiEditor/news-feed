@@ -110,5 +110,12 @@
     "url": "https://pixieditor.net/blog/2026/01/19/goal-and-purpose/",
     "date": "2026-01-19",
     "coverImageUrl": "https://raw.githubusercontent.com/PixiEditor/PixiEditor.net/refs/heads/master/src/content/blog/assets/goal-and-purpose/cover.png"
+  },
+  {
+    "title": "PixiEditor Q1 2026 Status",
+    "newsType": "BlogPost",
+    "url": "https://pixieditor.net/blog/2026/03/11/feb-2026-status/",
+    "date": "2026-03-11",
+    "coverImageUrl": "https://raw.githubusercontent.com/PixiEditor/PixiEditor.net/refs/heads/master/src/content/blog/assets/feb-2026-status/cover.png"
   }
 ]

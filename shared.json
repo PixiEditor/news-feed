@@ -117,5 +117,12 @@
     "url": "https://pixieditor.net/blog/2026/03/11/feb-2026-status/",
     "date": "2026-03-11",
     "coverImageUrl": "https://raw.githubusercontent.com/PixiEditor/PixiEditor.net/refs/heads/master/src/content/blog/assets/feb-2026-status/cover.png"
+  },
+  {
+    "title": "PixiEditor 2.1 first Release Candidate is here!",
+    "newsType": "BlogPost",
+    "url": "https://pixieditor.net/blog/2026/04/09/21-rc1/",
+    "date": "2026-04-09",
+    "coverImageUrl": "https://raw.githubusercontent.com/PixiEditor/PixiEditor.net/refs/heads/master/src/content/blog/assets/2.1-rc1/cover.png"
   }
 ]

@@ -1,0 +1,40 @@
+name: Test Build
+
+on:
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: "src"
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install dependencies
+      run: yarn install
+
+    - name: Install dependencies
+      run: yarn build
+
+    - name: View standalone
+      run: cat dist/v1/standalone.json
+
+    - name: View Steam
+      run: cat dist/v1/steam.json
+
+    - name: View MS Store
+      run: cat dist/v1/ms-store.json

@@ -145,5 +145,12 @@
     "url": "https://pixieditor.net/blog/2026/09/04/september-26-status/",
     "date": "2026-09-04",
     "coverImageUrl": "https://clan.akamai.steamstatic.com/images/43538089/a0a57aa34b39d5c619afac6fb530d8f4f6ecd9bd.png"
+  },
+  {
+    "title": "PixiEditor October 2026 Status",
+    "newsType": "BlogPost",
+    "url": "https://pixieditor.net/blog/2026/11/19/october-26-status/",
+    "date": "2026-10-19",
+    "coverImageUrl": "https://raw.githubusercontent.com/PixiEditor/PixiEditor.net/refs/heads/master/src/content/blog/assets/october-26-status/cover.png"
   }
 ]
